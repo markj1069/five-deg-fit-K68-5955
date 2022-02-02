@@ -1,0 +1,114 @@
+changecom(`/*', `*/')dnl
+
+keywords: dc_keywords
+
+## Abstract
+
+dc_description_abstract
+
+## Introduction
+
+Lorem ipsum [@LoremIpsum] dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Nibh venenatis cras sed felis eget. Sit amet volutpat consequat mauris nunc congue nisi. Etiam non quam lacus suspendisse faucibus interdum posuere. Ornare arcu odio ut sem nulla. Lorem dolor sed viverra ipsum nunc aliquet bibendum enim. Diam phasellus vestibulum lorem sed. Neque volutpat ac tincidunt vitae semper quis lectus nulla at. Ipsum a arcu cursus vitae congue mauris. Interdum consectetur libero id faucibus nisl tincidunt eget. Tortor consequat id porta nibh. Egestas quis ipsum suspendisse ultrices gravida dictum fusce ut. Nibh cras pulvinar mattis nunc. Mauris ultrices eros in cursus turpis massa. Diam phasellus vestibulum lorem sed risus ultricies tristique nulla. Gravida in fermentum et sollicitudin ac orci phasellus egestas. Laoreet suspendisse interdum consectetur libero id faucibus. Integer quis auctor elit sed vulputate mi sit amet mauris. Imperdiet sed euismod nisi porta lorem mollis aliquam ut. Morbi tincidunt augue interdum velit euismod in pellentesque massa placerat.
+
+Interdum velit laoreet id donec ultrices tincidunt arcu non sodales. Aenean pharetra magna ac placerat vestibulum. Arcu vitae elementum curabitur vitae nunc sed velit dignissim sodales. Adipiscing enim eu turpis egestas pretium. Porta lorem mollis aliquam ut porttitor leo a. Felis imperdiet proin fermentum leo vel orci. Facilisis volutpat est velit egestas dui. Aliquet nec ullamcorper sit amet risus nullam. Lacus luctus accumsan tortor posuere ac. Ullamcorper sit amet risus nullam eget felis eget nunc lobortis. Enim sed faucibus turpis in eu mi. Vehicula ipsum a arcu cursus vitae congue mauris. Ut sem viverra aliquet eget sit amet tellus cras adipiscing. Id diam maecenas ultricies mi eget mauris. Donec et odio pellentesque diam volutpat commodo sed. Adipiscing elit pellentesque habitant morbi tristique senectus. Consectetur adipiscing elit ut aliquam purus sit. Magna fermentum iaculis eu non.
+
+## Methods
+
+Integer nec leo ut ligula convallis fringilla in id tortor. Donec a nibh sed magna tempus cursus cursus id nulla. Duis lacinia sed leo ut commodo. Sed mauris neque, iaculis vitae auctor sit amet, semper vitae libero. Cras tincidunt felis eu turpis bibendum eleifend. Donec sollicitudin lectus justo, a interdum libero lobortis elementum. Integer eget mauris accumsan, mattis velit ac, varius diam. Integer vel efficitur est. Maecenas quis efficitur lectus, et interdum lorem.
+
+
+![J.J. Thompson's Gas Discharge Tube](img/JJ-Thompson-Gas-Discharge-Tube-cabinet3_2.jpg "The gas discharge tube used by J.J. Thompson is on display that the Museum at the Cavendish Laboratory[@museumatthecavendishlabratoryThompsonGasDischarge2015]."){#fig:one}
+
+The gas discharge tube used by J.J. Thompson is on display that the Museum at the Cavendish Laboratory[@museumatthecavendishlabratoryThompsonGasDischarge2015].
+
+## Results
+
+Phasellus consequat erat metus, nec hendrerit neque sollicitudin a. Suspendisse at vestibulum metus. Nam vitae quam facilisis, scelerisque nunc at, mollis nisl. Vivamus tristique egestas vestibulum. Donec auctor dignissim orci sed efficitur. Curabitur eros est, feugiat in porta sed, finibus nec lorem. Phasellus mauris neque, suscipit in rutrum accumsan, auctor sollicitudin ligula. Cras cursus ante at sodales ultrices.
+
+## Discussion
+
+In dapibus mauris et pellentesque consectetur. Integer eu elit ac tellus commodo cursus. Integer varius auctor porttitor. Aliquam ut erat et velit suscipit vulputate non ac magna. Cras nec aliquet felis, at suscipit mauris. Pellentesque tristique eget urna in interdum. Maecenas eu gravida libero. Sed fermentum turpis quis enim egestas aliquam. Ut ultrices orci sed rutrum volutpat. Proin non nunc at diam dictum commodo id sed neque. Praesent sit amet accumsan nunc. Cras gravida blandit risus, ac pharetra odio venenatis non. Duis egestas ligula quam, nec commodo justo euismod a. Duis tempus tincidunt fringilla. Aenean tincidunt, turpis vel egestas vehicula, dolor nunc pretium justo, nec mattis ipsum purus id nisl.
+
+## Conclusion
+
+Proin nisl enim, lobortis ac lorem nec, hendrerit elementum ante. Orci varius natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Phasellus non quam sodales, eleifend felis id, ultricies odio. Donec ligula augue, interdum eu accumsan sed, cursus non tellus. Aliquam non commodo nulla. Quisque laoreet lectus sed velit facilisis, in dapibus nibh posuere. Etiam eu elit a sem pharetra pharetra. Etiam leo tellus, lobortis et ipsum ac, bibendum interdum felis. Morbi at maximus augue. Cras elit risus, consectetur vel augue quis, molestie dapibus purus. Nulla id sapien iaculis, consequat libero sed, cursus neque. Donec est neque, rhoncus id ante nec, consectetur condimentum nisl. Pellentesque ornare sagittis hendrerit. Quisque cursus nisl nec feugiat aliquam. Ut ac lectus mattis, auctor orci ut, tempus velit.
+
+## Acknowledgements
+
+Sed eget odio elit. Morbi facilisis velit ut sodales blandit. Sed ac nisi nec massa mollis condimentum. Cras posuere odio purus, quis semper nisl hendrerit sit amet. Proin dictum tincidunt efficitur. Ut vel nisl nisi. Aenean tellus orci, cursus eu convallis a, porttitor in nulla.
+
+## Table Example
+
+This is an exmple of a table.
+
+| X | Y |
+|---|---|
+| 1 | 1 |
+| 2 | 2 |
+| 3 | 3 |
+| 4 | 4 |
+
+Table: Example Table. {#tbl:line-data}
+
+## Results{#sec:result}
+
+Praesent sem neque, commodo id consectetur a, pulvinar quis sapien. Nam mattis lobortis ultricies. Nulla egestas non arcu ut elementum. Morbi ultrices elit at vestibulum congue. Fusce a semper lectus. Morbi placerat odio vel sodales accumsan. Phasellus laoreet, dolor nec efficitur vulputate, sapien elit hendrerit neque, ac elementum ligula tortor at tortor. Etiam urna diam, ornare id ex ut, tincidunt posuere lorem. Integer blandit sem felis, a hendrerit enim molestie at. In tortor sem, tempor sit amet odio vel, pharetra dictum neque. In massa nisi, fermentum vitae semper vel, porttitor ut erat. Sed sagittis neque quis sapien placerat, quis finibus urna finibus. Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Mauris non arcu vulputate, euismod turpis at, scelerisque diam. Aliquam erat volutpat. Curabitur facilisis tortor eros, in pellentesque nulla fringilla at.
+
+Equation
+
+$$ y = ax + b $$ {#eq:st-line}
+
+## Example paragraph
+
+That was truly amazing.
+In Section @sec:result, we saw all there was to see about lines.
+First, in Equation @eq:st-line, we saw the deep Maths behind a line.
+Second, we saw the most beautiful depiction of a line (Figure @fig:one).
+Third, Table @tbl:line-data presented us, in all their glory,
+points to a line.
+
+\newpage
+
+## References
+
+::: {#refs}
+:::
+
+\newpage
+
+## Colophon
+
+Catagory
+: Catagory Def
+
+Comments
+: Comment paragraph
+
+Audience
+: dc_audience
+
+Coverage Status
+: [Coverage.Status]
+
+Coverage Temporal
+: [Coverage.Temporal]
+
+Creator
+: dc_creator
+
+Creator.JobTitle
+: dc_creator_jobTitle
+
+Description Abstract
+: dc_description
+
+Title Short
+: dc_title_short
+
+Document No.
+: Z99-9999-00
+
+Project No,
+: dc_identifier_proj
+
+Source: [Source.Filename]
