@@ -112,3 +112,6 @@ Project No,
 : dc_identifier_proj
 
 Source: [Source.Filename]
+
+Document Citation:
+: dc_identifier_bibliographicCitation
