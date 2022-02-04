@@ -33,6 +33,17 @@ In dapibus mauris et pellentesque consectetur. Integer eu elit ac tellus commodo
 
 Proin nisl enim, lobortis ac lorem nec, hendrerit elementum ante. Orci varius natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Phasellus non quam sodales, eleifend felis id, ultricies odio. Donec ligula augue, interdum eu accumsan sed, cursus non tellus. Aliquam non commodo nulla. Quisque laoreet lectus sed velit facilisis, in dapibus nibh posuere. Etiam eu elit a sem pharetra pharetra. Etiam leo tellus, lobortis et ipsum ac, bibendum interdum felis. Morbi at maximus augue. Cras elit risus, consectetur vel augue quis, molestie dapibus purus. Nulla id sapien iaculis, consequat libero sed, cursus neque. Donec est neque, rhoncus id ante nec, consectetur condimentum nisl. Pellentesque ornare sagittis hendrerit. Quisque cursus nisl nec feugiat aliquam. Ut ac lectus mattis, auctor orci ut, tempus velit.
 
+### Future Areas of Interest
+
+1. Goodness of Fit
+
+1. Regression through the Orgin
+
+1. Even and Odd Polynomials
+
+1. Orthogonal Polynomials
+
+
 ## Acknowledgements
 
 Sed eget odio elit. Morbi facilisis velit ut sodales blandit. Sed ac nisi nec massa mollis condimentum. Cras posuere odio purus, quis semper nisl hendrerit sit amet. Proin dictum tincidunt efficitur. Ut vel nisl nisi. Aenean tellus orci, cursus eu convallis a, porttitor in nulla.
